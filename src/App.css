@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+}
+.btn-zoom {
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.btn-zoom:hover {
+    background-color: darkblue;
+    color: white;
+}
+#zmmtg-root {
+    display: none;
+}
