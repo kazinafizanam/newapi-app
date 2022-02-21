@@ -1,4 +1,4 @@
-import "./Zoom.css";
+
 import { ZoomMtg } from "@zoomus/websdk";
 import { useEffect, useState } from "react";
 // import axios from "axios";
